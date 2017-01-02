@@ -1,6 +1,3 @@
-/**
- * Created by Mike on 1/1/2017.
- */
 (function ($) {
 
     $(document).ready(function () {
@@ -27,5 +24,6 @@
             $('.hib-bg-image').css('opacity', 0);
             $thumbs.css('opacity', 1);
         })
-    })
+    });
+
 })(jQuery);

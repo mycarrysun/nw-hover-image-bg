@@ -37,7 +37,7 @@ function nw_hib_enqueue_scripts()
 
 	wp_enqueue_script(
 		'nw-hib',
-		NW_HIB_URL . 'js/nw-hover-image-bg.js',
+		NW_HIB_URL . 'js/nw-hover-image-bg.min.js',
 		[ 'jquery' ]
 	);
 
