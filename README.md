@@ -1,5 +1,5 @@
 # nw-hover-image-bg
-Cornerstone element for an image that changes the section background on hover.
+Creates a new cornerstone element for the [X-Theme][2] that changes the background image of a section when the user hovers on the link. When the link/thumbnail is hovered over, the chosen background image is used as a background for the section it is in.
 
 ##Installation
 This plugin will only work with the [X-Theme][2].
